@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Birthday Greeting</string>
+    <string name="text_shower">Enter Name Here</string>
+
+    <string name="click_to_create_birthday_message">Click to create birthDay Message</string>
+    <string name="Enter_Name_Here">Enter your name here</string>
+    <string name="example_name">example.name</string>
+    <string name="click_here_to_create_birthday_greeting">Click Here to create Birthday greeting</string>
+    <string name="textview">TextView</string>
+    <string name="happy_birthday">Happy birthday!!</string>
+    <string name="todo">TODO</string>
+    <string name="create_birthday_wishes">Create Birthday wishes</string>
+</resources>
